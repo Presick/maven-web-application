@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>ckapps</finalName>
+		<finalName>landmark-sales</finalName>
 		
 		<plugins>
 			<plugin>
