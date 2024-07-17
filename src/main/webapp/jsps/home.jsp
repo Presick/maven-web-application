@@ -9,10 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Project30 automation.</h1>
+<h1 align="center">Welcome to our holiday sale.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+	           We are building tons of solution in IT automation.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -36,10 +35,10 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
                 Landmark Technology, 
 		Toronto, Canada
-		+1 437 215 2483,
+		+1 437 245 2483,
 		mylandmarktech@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:mylandmarktech@mylandmarktech.com">Mail to Landmark Technologies</a>
 	</span>
 </div>
 <hr>
